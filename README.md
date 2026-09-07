@@ -2,7 +2,7 @@
 
 > Predicting which employees are likely to leave so HR teams can intervene proactively — before it's too late.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red)](https://your-app-link.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red)](https://employee-attrition-prediction-main.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.x-blue)]()
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)]()
 
@@ -104,7 +104,7 @@ An interactive web app allows HR teams to input employee details and get an inst
 - High Risk / Low Risk prediction with probability score
 - Real-time prediction
 
-👉 **[Try the live app here](https://your-app-link.streamlit.app)**
+👉 **[Try the live app here](https://employee-attrition-prediction-main.streamlit.app/)**
 
 ---
 
