@@ -3,8 +3,9 @@ import joblib
 import pandas as pd
 import numpy as np
 
-model = joblib.load('final_model.pkl')
-
+import pickle
+with open('final_model.pkl', 'rb') as f:
+    model = pickle.load(f)
 
 st.title('📊 Employee Attrition Predictor')
 st.write('Predict wheather an employee is likely to leave')
